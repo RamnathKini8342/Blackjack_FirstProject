@@ -1,2 +1,2 @@
-# Kini_Repo
+# Blackjack_FirstProject
  First repository
